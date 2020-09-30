@@ -3,7 +3,7 @@ $Id$
 This file explains the organization of the World Wind Subversion repository's trunk directories, and briefly outlines their contents.
 
 trunk/WorldWind
-The 'WorldWind' folder contains the World Wind Java SDK project. Many resources are available at http://oneworldwind.org to help you understand and use World Wind. Key files and folders in the World Wind Java SDK:
+The 'WorldWind' folder contains the World Wind Java SDK project. Many resources are available at http://oneworldwind.org to help you understand, analyse and use World Wind. Key files and folders in the World Wind Java SDK:
 - build.xml: Apache ANT build file for the World Wind Java SDK.
 - src: Contains all Java source files for the World Wind Java SDK, except the World Wind WMS Server.
 - server: Contains the World Wind WMS Server Java source files, build file, and deployment files.
